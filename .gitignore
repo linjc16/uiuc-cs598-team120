@@ -1,4 +1,6 @@
 __pycache__/
 temp/
-raw*/
 .DS_Store
+
+data/ppi
+data/pubmed
